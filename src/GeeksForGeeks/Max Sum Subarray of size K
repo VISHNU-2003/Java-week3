@@ -1,0 +1,32 @@
+class Solution{
+    static long maximumSumSubarray(int K, ArrayList<Integer> Arr,int N){
+        code here
+        int max = Integer.MIN_VALUE;
+        // int sum = 0;
+        for(int i = 0; i<=N-K; i++)
+        {
+            int sum = 0;
+            for(int j=0;j<K;j++)
+            {
+                sum = sum + Arr.get(i+j);
+            }
+            //where we have found the sum of the sub array
+            if(sum>max) max = sum;
+        }
+        return max;
+        int max = Integer.MIN_VALUE;
+        int sum = 0;
+        //Finding sum of first window
+        for(int i = 0; i<N; i++)
+        {
+            sum = sum + Arr.get(i);
+        }
+        //sum of first window found
+        for(int i =0; i<N-K;i++)
+        {
+            sum = sum - Arr.get(i) + Arr.get(i+K);
+            if(sum>max) max = sum;
+        }
+        return max;
+    }
+}
