@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec345040-2bf8-484c-972b-aedaa6760592" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java week 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/Max Sum Subarray of size K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Angrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/checkPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/TwoPointerConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/BinarySearchWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/RecurssionStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlists/MyLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
