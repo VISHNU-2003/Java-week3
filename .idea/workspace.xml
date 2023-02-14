@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec345040-2bf8-484c-972b-aedaa6760592" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedlists/MyLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/Nth node from end of linked list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/check if strings are rotations of each other or not" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeeksForGeeks/intersection Point in y shapped linked lists" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
